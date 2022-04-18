@@ -8,7 +8,7 @@ void assemble(char filename[]) {
         "ldb",
         "stb",
         "jmp",
-        "js",
+        "jc",
         "out",
         "hlt",
         "and",
